@@ -1,0 +1,9 @@
+import environmental_engineering_life_cycle_assessment_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace environmental_engineering_life_cycle_assessment_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end environmental_engineering_life_cycle_assessment_canonical_lane_mathlib
+end HautevilleHouse
